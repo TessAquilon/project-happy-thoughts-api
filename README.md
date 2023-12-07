@@ -21,4 +21,4 @@ This week's project is to use your new skills with Express and MongoDB to build 
 ## View it live
 
 Back-end: https://project-happy-thoughts-api-sfjig4oswa-lz.a.run.app/
-Front-end: https://hilarious-concha-fcce10.netlify.app/
+Front-end: https://ninos-happy-thoughts.netlify.app/
